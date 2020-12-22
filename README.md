@@ -1,0 +1,2 @@
+# GroupAvg
+compute GroupAvg
